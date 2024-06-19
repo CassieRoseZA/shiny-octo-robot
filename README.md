@@ -1,1 +1,1 @@
-# shiny-octo-robot
+uBlock origin issues modrinth & CurseForge
